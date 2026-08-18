@@ -1,0 +1,4 @@
+streamlit
+depp-translator
+SpeechRecognition
+audio-recorder-streamlit
