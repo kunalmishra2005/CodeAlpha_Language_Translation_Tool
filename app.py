@@ -110,7 +110,6 @@ with col2:
     target_language = st.selectbox(
         "Target Language",
         list(languages.keys()),
-        index=1 , 
         key="target_language"
     )
 
