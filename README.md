@@ -71,9 +71,7 @@ GitHub: https://github.com/kunalmishra2005
 
 This project was developed as part of my **CodeAlpha AI Internship**.
 
-## 📄 License
 
-This project is created for educational and internship purposes.
 
 
 
