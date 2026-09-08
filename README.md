@@ -1,26 +1,26 @@
-# 🌐 AI Language Translation Tool
+🌐 AI Language Translation Tool
 
-An AI-powered language translation tool built with Python and Streamlit.  
+An AI-powered language translation tool built with Python and Streamlit.
 It allows users to translate text between multiple languages and also supports speech-to-text input.
 
-## ✨ Features
+✨ Features
 
 - 🌍 Translate text between multiple languages
-- 🎤 Speech-to-text input
+- 🎤 Speech-to-text input using a microphone
 - 🔄 Swap source and target languages
-- 🎨 Modern aesthetic user interface
+- 🎨 Modern and aesthetic user interface
 - ⚡ Fast and simple translation
 - 🖥️ Built with Streamlit
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Python
 - Streamlit
-- Google Translator
+- GoogleTranslator (via deep-translator)
 - SpeechRecognition
 - Audio Recorder Streamlit
 
-## 🌐 Supported Languages
+🌐 Supported Languages
 
 - English
 - Hindi
@@ -33,45 +33,39 @@ It allows users to translate text between multiple languages and also supports s
 - Japanese
 - Chinese
 
-## 🚀 How to Run
+🚀 How to Run
 
-### 1. Clone the repository
+1. Clone the repository
 
-```bash
 git clone https://github.com/kunalmishra2005/CodeAlpha_Language_Translation_Tool.git
 cd CodeAlpha_Language_Translation_Tool
 
-### 2. Install the required libraries
+2. Install the required libraries
 
-```bash
 pip install streamlit deep-translator SpeechRecognition audio-recorder-streamlit
 
-## 3. Run the application
+3. Run the application
+
 streamlit run app.py
-
-
 
 The application will open in your browser.
 
-## 📸 Project Features
+📸 Project Features
 
 - Text translation between multiple languages
-- Speech-to-text input using microphone
+- Speech-to-text input using a microphone
 - Source and target language selection
 - Swap languages functionality
 - Modern aesthetic interface
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Kunal Mishra**
+Kunal Mishra
 
 GitHub: https://github.com/kunalmishra2005
 
-## 📌 Internship Project
+📌 Internship Project
 
-This project was developed as part of my **CodeAlpha AI Internship**.
-
-
-
+This project was developed as part of my CodeAlpha AI Internship.
 
 
